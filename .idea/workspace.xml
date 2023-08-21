@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="119469c4-074c-4464-8f84-296d046fffc8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../re-sesac" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../seesaw/README.md" beforeDir="false" />
     </list>
@@ -30,7 +30,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Rainbow Brackets"
   }
 }]]></component>
