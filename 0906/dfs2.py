@@ -23,7 +23,9 @@ start_node = 1
 stack.append(start_node)
 
 while stack: #stack에 들어있을때까지 반복을하겠다!
+    print(stack)
     node = stack.pop()
+    
     if node not in visited:
         visited.append(node)
 
@@ -65,4 +67,6 @@ while stack:
             stack.pop() #다 방문했다면 나가! 
 
 print(visited)
+
+print(*visited)
 
